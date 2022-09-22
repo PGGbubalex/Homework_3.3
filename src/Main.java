@@ -8,5 +8,6 @@ public class Main {
     int papersForEachStudent = papers / totalStudents;
         System.out.println("На каждого ученика рассчитано " + papersForEachStudent + " листов бумаги");
 
+        // task 3 complete
     }
 }
